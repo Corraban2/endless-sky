@@ -28763,7 +28763,7 @@ planet "Sabira Eseskrai"
 
 planet "Safaresk Enlai"
 	attributes korath station
-	landscape land/space7
+	landscape land/space2
 	description `It is unclear what the primary purpose of this station is. The station contains numerous greenhouses where a wide variety of plants, and even some small animals, are kept. Other parts of the station are closed off to non-Korath visitors.`
 	spaceport `This spaceport is relatively unpopulated for a station of this size, and the few Korath who are here are wandering about with the sort of deeply absorbed attitude you would expect from a scientist or an academic.`
 	spaceport `	In one corner of the spaceport is a cage housing several large rodents and some small shrubs, lit by a warm sun-lamp. The rodents are quite acrobatic.`
@@ -28866,7 +28866,7 @@ planet "Seleptra Nak"
 
 planet Seli'het
 	attributes ka'het uninhabited
-	landscape land/space7
+	landscape land/space0
 	description `This massive station, despite its age, does not appear to have any visible damage: everything inside it is perfectly in order, and no section shows signs of weapon fire on it. If it wasn't for the absence of its inhabitants and the complete lack of atmosphere, it would probably be identical to when it was first constructed.`
 	government Builder
 
