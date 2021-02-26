@@ -27153,7 +27153,7 @@ planet Firelode
 
 planet "Firka Tesk"
 	attributes korath
-	landscape land/lava0
+	landscape land/lava8
 	description `This appears to have once been an inhabited world, and the remnants of a few cities still remain. But the planet's crust has been cracked like an eggshell, releasing rivers of lava and leaving behind unnaturally steep mountains and fault lines. The wind whistles and howls through the rifts and fissures as if the planet itself is screaming in pain. A thick haze of sulfur dioxide and ash hangs over everything.`
 
 planet Flood
@@ -28288,7 +28288,7 @@ planet "New Kansas"
 
 planet "New Portland"
 	attributes "dirt belt" farming
-	landscape land/sky3
+	landscape land/mountain14-sfiera
 	description `New Portland is a cloudy planet orbiting a dim star; the only reason it is not completely frozen is because of the heat trapped by its upper atmosphere. There are only a handful of towns here, and nothing big enough to warrant being called a city. Most of the settlers are subsistence farmers who can only dream about life on other worlds. Many houses here do not even have running water or personal computers.`
 	description `	Some of the farms near the spaceport are planted with different crops forming abstract patterns visible from the air. Such a whimsical extravagance seems particularly odd when you consider that the owners will never be able to afford to see their fields from that angle. But perhaps that is precisely the point.`
 	spaceport `The largest town on New Portland has set aside a landing area for ships, but it is barely what could be called a spaceport. Aside from the refueling station and a few sheds, there are no other buildings, just an open field of packed gravel, with grass and weeds peeking up in places where it has avoided the blast from landing spacecraft. A few farmers have parked wagons here and are trading food and other goods with the visiting ships.`
@@ -28530,7 +28530,7 @@ planet "Plort's Water"
 
 planet Poisonwood
 	attributes south factory farming frontier
-	landscape land/bwerner6
+	landscape land/mountain19-harro
 	description `Until very recently, Poisonwood was home to a slave colony run by a powerful outlaw cartel. Tens of thousands of slaves were forced to work in hot, dirty manufacturing plants or irrigating fields out under the burning sun. Finally, in the year 2985, a Republic Navy strike force defeated the cartel and liberated the slaves. The Navy also supplied the manpower and equipment necessary to transform the factories and towns into a more livable setting for those who chose to remain, while giving others free passage off-world.`
 	description `	Today, most of the inhabitants are children of the liberated slaves, and like their parents they remain grateful and fiercely loyal to the Republic.`
 	spaceport `The starport is a hodgepodge of small metal structures, built from the remains of Navy and pirate ships that fought for control of this world. The locals are unusually courteous and proud to welcome you to their planet.`
@@ -28848,12 +28848,12 @@ planet "Secret Sky"
 
 planet "Sek Alarfarat"
 	attributes korath
-	landscape land/bwerner2
+	landscape land/mountain26
 	description `A hideously powerful weapon tore open scars on this planet's surface so deep that pools of magma bled out through them. Presumably these wounds were inflicted on the planet by yet another Korath super-weapon devised in the final years of their civil war. A few ruined cities remain, some of which were sliced in two by the trail of weapon fire.`
 
 planet "Selefkar Refinery"
 	attributes korath station
-	landscape land/space6
+	landscape land/loc3
 	description `This station's hull is pockmarked by weapons fire and torn open by larger explosions. Only one section remains that still contains atmosphere. Inside are the corpses of a few dozen Korath, mummified by exposure to the dry and antiseptic air of the station. It's not a pretty sight.`
 	description `	Before the war put an end to it, this appears to have been a refinery, processing ore harvested from the system's unusually dense population of metallic asteroids.`
 	security 0
@@ -29139,7 +29139,7 @@ planet "Spera Anatrusk"
 
 planet Splashdown
 	attributes north farming
-	landscape land/water5
+	landscape land/sea14-sfiera
 	description `Splashdown is an aging world where plate tectonics have long since died down and the weather has worn the surface down into lowlands, marshes, and shallow seas. Most of the land area is not suitable for growing anything but rice, and only a few settlements have been built here. Most visitors find this world boring, but the locals say they find beauty in the big sky and the subtle colors of the grasslands.`
 	spaceport `The spaceport is in the "highlands," a wide plateau only a few hundred meters above sea level. In all directions, the horizon is an almost perfectly flat line, varied only slightly by low hills and copses of trees. The port itself consists of some grain silos and warehouses, an open air marketplace, and a barbecue restaurant with outdoor seating. The buildings are all single-story, wood-framed construction.`
 	security 0.2
