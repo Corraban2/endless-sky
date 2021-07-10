@@ -2543,6 +2543,25 @@ phrase "republic small"
 		Liao
 		Congo
 		Senegal
+		Tambo
+		Yenisei
+		Lena
+		Chambeshi
+		Tocantins
+		Kolyma
+		Ishim
+		Kasai
+		Rubicon
+		Kama
+		Volta
+		Daugava
+		Naryn
+		Salado
+		Belaya
+		Fraser
+		Elbe
+		Helmand
+		Sepik
 
 phrase "free worlds small"
 	word
