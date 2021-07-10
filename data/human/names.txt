@@ -2576,6 +2576,17 @@ phrase "republic small"
 		Elbe
 		Helmand
 		Sepik
+		Branco
+		Pechora
+		Barito
+		Kaladan
+		Javari
+		Mahanadi
+		Gandaki
+		Atrato
+		Pastaza
+		Irtysh
+		Neva
 
 phrase "free worlds small"
 	word
