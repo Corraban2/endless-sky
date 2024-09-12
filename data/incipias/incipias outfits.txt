@@ -264,7 +264,7 @@ outfit "MH Blue-Class Steering"
 	"outfit space" -24
 	"engine capacity" -24
 	"turn" 498
-	"turning energy" 1.
+	"turning energy" 1
 	"turning heat" 3
 	description "This steering barely provides the minimum force needed to turn a ship, but it is still used often because of how cheap it is."
 
